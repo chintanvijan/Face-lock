@@ -40,8 +40,8 @@ def hide(t):
 	f1 = open(ts,"w")
 	f1.write(fr1)
 	f1.close()
-	cm = "attrib +h +s +r /s /d "+ts
-	os.system(cm)
+	#cm = "attrib +h +s +r /s /d "+ts
+	#os.system(cm)
 
 
 

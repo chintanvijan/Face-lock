@@ -1,5 +1,5 @@
 # Face-lock
-A face recognition desktop app created in python to protect your private files and directories by generating a user's face id.
+A face recognition desktop app created in python to protect your private files and directories by generating a user's face id .
 
 Dependencies for usage:
   1. Python 3.0 or plus.

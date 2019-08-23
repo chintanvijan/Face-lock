@@ -6,7 +6,7 @@
 #    Dec 10, 2018 04:57:50 PM
 
 import sys
-#import main.py
+import main.py
 try:
     from Tkinter import *
 except ImportError:
